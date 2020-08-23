@@ -444,5 +444,5 @@ tasks
 
 112
 00:03:56,959 --> 00:04:03,439
-in the partial wbs in the exercise files
+in the partial wbs in the exercise files.
 
