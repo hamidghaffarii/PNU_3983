@@ -306,4 +306,4 @@ an extra challenge.
 00:03:09,330 --> 00:03:14,730
 
 Use the risk information form in the
-exercise files to document the risks.
+exercise files to document the risks..
