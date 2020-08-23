@@ -180,5 +180,5 @@ documents to make them
 
 46
 00:01:34,960 --> 00:01:39,040
-easy to access
+easy to access.
 
