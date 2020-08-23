@@ -149,4 +149,4 @@ portions of a project for practice.
 18
 00:01:36,170 --> 00:01:40,430
 Add Milestone's to the network
-diagram in the exercise files.
+diagram in the exercise files..
