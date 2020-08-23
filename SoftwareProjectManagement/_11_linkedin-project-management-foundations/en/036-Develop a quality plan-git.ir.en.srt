@@ -32,7 +32,7 @@ roadmap
 
 9
 00:00:18,000 --> 00:00:23,519
-to meeting objectives project quality
+to meeting objectives project quality.
 
 10
 00:00:21,439 --> 00:00:24,480
