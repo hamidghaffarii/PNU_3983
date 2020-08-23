@@ -303,4 +303,4 @@ and services to procure as an exercise,
 00:02:43,750 --> 00:02:49,120
 
 identify some of the criteria you might
-use to choose the scheduling system vendor.
+use to choose the scheduling system vendor..
