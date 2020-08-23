@@ -264,5 +264,5 @@ work through the assignment exercise in
 
 67
 00:02:27,520 --> 00:02:31,840
-the exercise files
+the exercise files.
 
