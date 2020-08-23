@@ -376,5 +376,5 @@ shorten the scheduling project
 
 95
 00:03:31,760 --> 00:03:37,200
-and which tasks might be involved
+and which tasks might be involved.
 
