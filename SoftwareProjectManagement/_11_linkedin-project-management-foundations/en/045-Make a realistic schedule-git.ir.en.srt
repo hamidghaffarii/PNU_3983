@@ -209,4 +209,4 @@ exercise files
 53
 00:01:49,360 --> 00:01:55,520
 to practice assigning resources to tasks
-
+.
