@@ -39,4 +39,4 @@ needed to complete this work.
 00:00:26,640 --> 00:00:31,170
 
 After you create your network diagram, compare
-it to the one I built.
+it to the one I built..
