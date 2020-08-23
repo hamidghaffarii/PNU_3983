@@ -208,5 +208,5 @@ of the project
 
 53
 00:01:56,159 --> 00:02:01,200
-provided in the exercise files
+provided in the exercise files.
 
