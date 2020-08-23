@@ -188,5 +188,5 @@ the project is about
 
 48
 00:01:47,680 --> 00:01:51,439
-and buy into it
+and buy into it.
 
